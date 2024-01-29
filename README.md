@@ -152,7 +152,7 @@ o	This money goes to the ARHS for event planning.
 
 WH Lobby
 -	3 Swipe System
--	LLC (Honors and Edu) 
+-	LLC (Honors and Edu) ResHall only
 -	Mail room
 o	Everything larger than a letter is sent to the leadership development center.
 
