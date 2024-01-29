@@ -204,7 +204,8 @@ o	College of Business
 
 
 
-Inside Vincent
+__**Inside Vincent**__
+- **Class Sizes**
 -	Home of the theological Sciences
 o	Math
 o	Physics
